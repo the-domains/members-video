@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Members Video]]></title>
         <description><![CDATA[Members Video]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://members.video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 21:35:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 21:35:41 GMT</lastBuildDate>
+        <atom:link href="http://members.video/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World Leaders to Sign Climate Accord]]></title>
+            <description><![CDATA[<article><h1>World Leaders to Sign Climate Accord</h1><p>On Friday, world leaders will take historic action at the United Nations to try to slow the effects of climate change and fix some of its damage. Margaret Be...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ca817a9ca173ffbc19db4dcec7857763b8863d6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qfAaFPKBLJY</link>
+            <guid isPermaLink="false">865eef3a-74f7-4512-bc40-e6a940886efb</guid>
+            <pubDate>Thu, 21 Apr 2016 21:35:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Immigrants Fuel Silicon Valley Startups]]></title>
             <description><![CDATA[<article><h1>Immigrants Fuel Silicon Valley Startups</h1><p>America's high-tech center of Silicon Valley, near San Francisco, continues to grow, and much of the energy is coming from immigrant entrepreneurs. VOA's Mike O'Sullivan spoke with the immigrant founders of two Internet startups: one starting operations and the other expanding its base of millions of online users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0de0db43a1fd6cabb8a866c1d24b59eac045cf22.jpg"></article>]]></description>
