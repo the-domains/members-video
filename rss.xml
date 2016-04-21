@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Members Video]]></title>
+        <description><![CDATA[Members Video]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 21:35:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Immigrants Fuel Silicon Valley Startups]]></title>
+            <description><![CDATA[<article><h1>Immigrants Fuel Silicon Valley Startups</h1><p>America's high-tech center of Silicon Valley, near San Francisco, continues to grow, and much of the energy is coming from immigrant entrepreneurs. VOA's Mike O'Sullivan spoke with the immigrant founders of two Internet startups: one starting operations and the other expanding its base of millions of online users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0de0db43a1fd6cabb8a866c1d24b59eac045cf22.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fGa-zTyX8Jg</link>
+            <guid isPermaLink="false">dc29c41c-28c7-495e-b8f8-43348225d984</guid>
+            <pubDate>Thu, 21 Apr 2016 21:35:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
