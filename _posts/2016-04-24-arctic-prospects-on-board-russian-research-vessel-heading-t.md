@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9fPJkRhRno0'
 title: 'Arctic Prospects: On board Russian research vessel heading to Polar Circle (RT Documentary)'
-datePublished: '2016-04-24T17:55:57.468Z'
-dateModified: '2016-04-24T17:55:15.772Z'
+datePublished: '2016-04-24T18:05:59.209Z'
+dateModified: '2016-04-24T18:04:39.493Z'
 starred: false
 sourcePath: _posts/2016-04-24-arctic-prospects-on-board-russian-research-vessel-heading-t.md
 published: true
