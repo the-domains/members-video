@@ -14,8 +14,8 @@ description: 'In the Kazakh city of Atyrau, around 1,000 people staged a rare pu
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZquETcxx42o'
 title: Rare Kazakhstan Protest Denounces Land Auction Plans
-datePublished: '2016-04-24T17:55:57.916Z'
-dateModified: '2016-04-24T17:52:59.033Z'
+datePublished: '2016-04-24T18:05:59.193Z'
+dateModified: '2016-04-24T18:05:11.888Z'
 starred: false
 sourcePath: _posts/2016-04-24-rare-kazakhstan-protest-denounces-land-auction-plans.md
 published: true
