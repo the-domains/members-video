@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=CXywgjUYDVg'
 title: "George Clooney In Armenia, Calls Genocide Denial 'Ridiculous'"
-datePublished: '2016-04-24T17:55:57.648Z'
-dateModified: '2016-04-24T17:53:36.514Z'
+datePublished: '2016-04-24T18:05:59.145Z'
+dateModified: '2016-04-24T18:05:37.038Z'
 starred: false
 sourcePath: _posts/2016-04-24-george-clooney-in-armenia-calls-genocide-denial-ridiculous.md
 published: true
