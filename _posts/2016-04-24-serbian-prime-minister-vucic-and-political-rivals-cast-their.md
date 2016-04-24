@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=shND_8zhMyI'
 title: Serbian Prime Minister Vucic And Political Rivals Cast Their Votes
-datePublished: '2016-04-24T17:55:57.791Z'
-dateModified: '2016-04-24T17:53:09.637Z'
+datePublished: '2016-04-24T18:05:59.085Z'
+dateModified: '2016-04-24T18:05:21.353Z'
 starred: false
 sourcePath: _posts/2016-04-24-serbian-prime-minister-vucic-and-political-rivals-cast-their.md
 published: true
