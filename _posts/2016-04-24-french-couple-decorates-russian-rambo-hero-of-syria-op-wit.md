@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Ir8gCvb6b78'
 title: "French couple decorates 'Russian Rambo' hero of Syria op with family's WWII medals"
-datePublished: '2016-04-24T17:55:57.572Z'
-dateModified: '2016-04-24T17:55:00.329Z'
+datePublished: '2016-04-24T18:05:59.255Z'
+dateModified: '2016-04-24T18:04:31.565Z'
 starred: false
 sourcePath: _posts/2016-04-24-french-couple-decorates-russian-rambo-hero-of-syria-op-wit.md
 published: true
