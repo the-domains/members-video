@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.rferl.org/content/ukraine-odesa-mayor-protesters-attacked-tensions-high/27701723.html'
 title: Odesa Protesters Defiant After Attack
-datePublished: '2016-04-27T17:00:33.320Z'
-dateModified: '2016-04-27T16:37:17.433Z'
+datePublished: '2016-04-27T17:00:33.606Z'
+dateModified: '2016-04-27T16:36:10.694Z'
 starred: false
 sourcePath: _posts/2016-04-27-odesa-protesters-defiant-after-attack.md
 published: true
