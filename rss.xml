@@ -4,8 +4,15 @@
         <description><![CDATA[Members Video]]></description>
         <link>http://members.video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 18:26:54 GMT</lastBuildDate>
         <atom:link href="http://members.video/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Kyrgyz Maximum Security Prison Opens In Bishkek]]></title>
+            <description><![CDATA[<article><h1>New Kyrgyz Maximum Security Prison Opens In Bishkek</h1><p>Kyrgyzstan has opened a new maximum security prison in the capital, Bishkek. It took about nine years to complete. The government demanded an acceleration in construction after a prison break at an older nearby facility last October. (RFE/RL's Kyrgyz Service) Originally published at - http://www.rferl.org/media/video/kyrgyzstan-prison/27704545.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bedde0ac65ac1c058e08dd108988d6fc53db3374.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ND9fUpa5hnw</link>
+            <guid isPermaLink="false">284ef814-de97-4b10-9dbe-9535bcfd73fa</guid>
+            <pubDate>Thu, 28 Apr 2016 18:25:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Police Disperse Kazakhs Protesting Land Privatization]]></title>
             <description><![CDATA[<article><h1>Police Disperse Kazakhs Protesting Land Privatization</h1><p>More people gathered in Kazakhstan to protest against a government decision to privatize agricultural land. In the coastal town of Aktau on the Caspian Sea, police intervened and forced people to leave. (RFE/RL's Kazakh Service) Originally published at - http://www.rferl.org/media/video/kazakhstan-privatization/27704745.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b878ad9de3955e31475b87b781e5df1caac5baa8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=3ArFqV3gu74</link>
             <guid isPermaLink="false">44cfdb29-c0d0-4534-ae98-eea27031ae27</guid>
             <pubDate>Wed, 27 Apr 2016 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan Taliban Claims Ready For Peace Talks, But Kabul Is Cool]]></title>
-            <description><![CDATA[<article><h1>Afghan Taliban Claims Ready For Peace Talks, But Kabul Is Cool</h1><p>The Afghan Taliban claims to have sent a delegation to Pakistan for peace talks just as the Afghan government cooled to negotiations in the wake of last week's massive bomb blast that killed 64 people in Kabul.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51a0ea056dfe04f2edcbceb9cd15cbb1130f984f.jpg"></article>]]></description>
-            <link>http://www.rferl.org/content/afghan-taliban-claims-ready-for-peace-talks-but-kabul-is-cool/27700504.html</link>
-            <guid isPermaLink="false">77970ed0-25fd-4222-a956-38952eae5a28</guid>
-            <pubDate>Wed, 27 Apr 2016 17:00:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
