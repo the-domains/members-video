@@ -4,8 +4,15 @@
         <description><![CDATA[Members Video]]></description>
         <link>http://members.video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 17:03:53 GMT</lastBuildDate>
         <atom:link href="http://members.video/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Florida's Weeki Wachee 'Mermaids' Make a Splash]]></title>
+            <description><![CDATA[<article><h1>Florida's Weeki Wachee 'Mermaids' Make a Splash</h1><p>Since 1947, 'mermaids' have fascinated tourists at central Florida's Weeki Wachee Springs State Park with their fluid movements and synchronized ballet. Performing underwater has its challenges, including cold temperatures and a steady current, as VOA's Lin Yang and Joseph Mok report. Originally published at - http://www.voanews.com/media/video/florida-weeki-wachee-mermaids-make-a-splash/3308536.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d64c710207353c93e21ff47a397e0e6a014d69c1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2SEFtuSkAr8</link>
+            <guid isPermaLink="false">f9a67c42-0d32-4dc7-9d9b-b5864112844c</guid>
+            <pubDate>Fri, 29 Apr 2016 17:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine Far-Right Group Defaces KGB Monument]]></title>
             <description><![CDATA[<article><h1>Ukraine Far-Right Group Defaces KGB Monument</h1><p>Activists from the Organization of Ukrainian Nationalists defaced a Soviet-era monument dedicated to KGB officers in Kyiv. Members of the far-right group tried but failed to chisel off the nose of one face on April 28. (RFE/RL's Ukrainian Service) Originally published at - http://www.rferl.org/media/video/ukraine-monument/27706647.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7266bf32654ef9b26ac7d21ee64f0e141a47e501.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=cJCZaOWJXzM</link>
             <guid isPermaLink="false">a6fbaa93-4273-4316-9651-b6d87d32a44e</guid>
             <pubDate>Thu, 28 Apr 2016 18:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Daily Vertical: As If We Need Another Cuban Missile Crisis]]></title>
-            <description><![CDATA[<article><h1>The Daily Vertical: As If We Need Another Cuban Missile Crisis</h1><p>The Daily Vertical is a video primer for Russia-watchers that appears Monday through Friday. Originally published at - http://www.rferl.org/media/video/daily-vertical-cuban-missile-crisis/27703342.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88749b8cd45a75ce04a4705bfdd21e4288f44062.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=17QuTSSemRk</link>
-            <guid isPermaLink="false">ef6e9b70-1d1a-4041-8956-617ffc6d755e</guid>
-            <pubDate>Thu, 28 Apr 2016 18:25:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
