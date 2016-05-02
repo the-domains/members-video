@@ -4,8 +4,15 @@
         <description><![CDATA[Members Video]]></description>
         <link>http://members.video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 16:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 16:55:31 GMT</lastBuildDate>
         <atom:link href="http://members.video/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Little Havana - a Slice of Cuban Culture in Florida]]></title>
+            <description><![CDATA[<article><h1>Little Havana - a Slice of Cuban Culture in Florida</h1><p>Hispanic culture permeates everything in Miami's Little Havana area: elderly men playing dominoes as they discuss politics, cigar rollers deep at work, or Cuban exiles talking with presidential candidates at a Cuban coffee window. With the recent rapprochement between Cuba and United States, one can only expect stronger ties between South Florida and Cuba.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/238ea291da29fad45f4a3226e0a72e6d59723398.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z0-UWNOiC0s</link>
+            <guid isPermaLink="false">f97dc4d9-abb4-4f57-9371-ff8a9af5ec2a</guid>
+            <pubDate>Mon, 02 May 2016 16:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Sees 1st Zika Death Amid Funding Stalemate]]></title>
             <description><![CDATA[<article><h1>US Sees 1st Zika Death Amid Funding Stalemate</h1><p>The first known death from the Zika virus on U.S. territory was reported Friday as lawmakers left Washington for a weeklong recess. VOA's Michael Bowman reports, neither house of Congress has approved funding to combat Zika, despite increasingly dire warnings from U.S. health officials. Originally published at - http://www.voanews.com/media/video/us-first-zika-death/3310721.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2cf267493289f09a6ba9da50476f5be7c3db064.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jg05_eaXwc8</link>
             <guid isPermaLink="false">a7506cba-63a6-4639-b837-95cf30b0fff3</guid>
             <pubDate>Sun, 01 May 2016 17:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy Makes His Mark with 3-D Printing]]></title>
-            <description><![CDATA[<article><h1>Boy Makes His Mark with 3-D Printing</h1><p>People often underestimate what young children can learn and handle. One 9-year-old boy in Baltimore, Maryland, has made adults think twice. His passion for 3-D printing got him to the White House, and a meeting with President Barack Obama. VOA's June Soh has more on the boy who has future plans to help and give back to society.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7cca8aaa8def373d5a48223d980b3d39d4d9d35.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=YcsUOQq7S3s</link>
-            <guid isPermaLink="false">3788de45-cd2f-47bd-a215-c76075d6a460</guid>
-            <pubDate>Sat, 30 Apr 2016 16:14:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
